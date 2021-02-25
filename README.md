@@ -1,2 +1,3 @@
-# CI-CD
-DevOps
+# maven-project
+
+Simple Maven Project
